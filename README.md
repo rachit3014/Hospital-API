@@ -1,10 +1,10 @@
-# Project : Hospital API
+# Project: Hospital API
 ## To Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rachit3014/Hospital-API
 ```
 
 Go to the project directory
